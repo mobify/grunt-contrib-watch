@@ -1,3 +1,8 @@
+v0.7.0
+  date: 2015-05-27
+  changes:
+    - Add 'watch-start' and 'watch-end' events that fire
+    when watch begins to run or finishes running
 v0.6.1:
   date: 2014-03-19
   changes:
